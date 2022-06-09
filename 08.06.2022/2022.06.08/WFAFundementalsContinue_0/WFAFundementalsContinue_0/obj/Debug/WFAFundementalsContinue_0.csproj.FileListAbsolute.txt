@@ -1,0 +1,10 @@
+E:\Gruplar\OzelDiscord\2022.06.08\WFAFundementalsContinue_0\WFAFundementalsContinue_0\bin\Debug\WFAFundementalsContinue_0.exe.config
+E:\Gruplar\OzelDiscord\2022.06.08\WFAFundementalsContinue_0\WFAFundementalsContinue_0\bin\Debug\WFAFundementalsContinue_0.exe
+E:\Gruplar\OzelDiscord\2022.06.08\WFAFundementalsContinue_0\WFAFundementalsContinue_0\bin\Debug\WFAFundementalsContinue_0.pdb
+E:\Gruplar\OzelDiscord\2022.06.08\WFAFundementalsContinue_0\WFAFundementalsContinue_0\obj\Debug\WFAFundementalsContinue_0.csproj.AssemblyReference.cache
+E:\Gruplar\OzelDiscord\2022.06.08\WFAFundementalsContinue_0\WFAFundementalsContinue_0\obj\Debug\WFAFundementalsContinue_0.Form1.resources
+E:\Gruplar\OzelDiscord\2022.06.08\WFAFundementalsContinue_0\WFAFundementalsContinue_0\obj\Debug\WFAFundementalsContinue_0.Properties.Resources.resources
+E:\Gruplar\OzelDiscord\2022.06.08\WFAFundementalsContinue_0\WFAFundementalsContinue_0\obj\Debug\WFAFundementalsContinue_0.csproj.GenerateResource.cache
+E:\Gruplar\OzelDiscord\2022.06.08\WFAFundementalsContinue_0\WFAFundementalsContinue_0\obj\Debug\WFAFundementalsContinue_0.csproj.CoreCompileInputs.cache
+E:\Gruplar\OzelDiscord\2022.06.08\WFAFundementalsContinue_0\WFAFundementalsContinue_0\obj\Debug\WFAFundementalsContinue_0.exe
+E:\Gruplar\OzelDiscord\2022.06.08\WFAFundementalsContinue_0\WFAFundementalsContinue_0\obj\Debug\WFAFundementalsContinue_0.pdb

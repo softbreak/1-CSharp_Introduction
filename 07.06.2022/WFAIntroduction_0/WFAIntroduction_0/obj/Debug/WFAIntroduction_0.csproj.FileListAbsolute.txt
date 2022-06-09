@@ -1,0 +1,10 @@
+E:\Gruplar\OzelDiscord\2022.06.07\WFAIntroduction_0\WFAIntroduction_0\bin\Debug\WFAIntroduction_0.exe.config
+E:\Gruplar\OzelDiscord\2022.06.07\WFAIntroduction_0\WFAIntroduction_0\bin\Debug\WFAIntroduction_0.exe
+E:\Gruplar\OzelDiscord\2022.06.07\WFAIntroduction_0\WFAIntroduction_0\bin\Debug\WFAIntroduction_0.pdb
+E:\Gruplar\OzelDiscord\2022.06.07\WFAIntroduction_0\WFAIntroduction_0\obj\Debug\WFAIntroduction_0.csproj.AssemblyReference.cache
+E:\Gruplar\OzelDiscord\2022.06.07\WFAIntroduction_0\WFAIntroduction_0\obj\Debug\WFAIntroduction_0.Form1.resources
+E:\Gruplar\OzelDiscord\2022.06.07\WFAIntroduction_0\WFAIntroduction_0\obj\Debug\WFAIntroduction_0.Properties.Resources.resources
+E:\Gruplar\OzelDiscord\2022.06.07\WFAIntroduction_0\WFAIntroduction_0\obj\Debug\WFAIntroduction_0.csproj.GenerateResource.cache
+E:\Gruplar\OzelDiscord\2022.06.07\WFAIntroduction_0\WFAIntroduction_0\obj\Debug\WFAIntroduction_0.csproj.CoreCompileInputs.cache
+E:\Gruplar\OzelDiscord\2022.06.07\WFAIntroduction_0\WFAIntroduction_0\obj\Debug\WFAIntroduction_0.exe
+E:\Gruplar\OzelDiscord\2022.06.07\WFAIntroduction_0\WFAIntroduction_0\obj\Debug\WFAIntroduction_0.pdb
